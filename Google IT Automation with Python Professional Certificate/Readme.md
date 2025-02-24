@@ -1,22 +1,22 @@
 # 🚀 Google IT Automation with Python Professional Certificate  
-![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coursera_logo.svg/1200px-Coursera_logo.svg.png)  
+![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coursera_logo_%282020%29.svg/78px-Coursera_logo_%282020%29.svg.png)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-This repository provides a structured overview of the **Google IT Automation with Python Professional Certificate** curriculum. Use this as a reference guide for course progression and module tracking.
+This repository provides a structured overview of the **Google IT Automation with Python Professional Certificate** practice code I have written during this certification. You can use this as a course progression and module tracking reference guide.
 
 ---
-
 ## 📚 Table of Contents  
- 
-* [Course 1: Crash Course on Python](#course-1-crash-course-on-python)  
-* [Course 2: Using Python to Interact with the Operating System](#course-2-using-python-to-interact-with-the-operating-system)  
-* [Course 3: Introduction to Git and GitHub](#course-3-introduction-to-git-and-github)  
-* [Course 4: Troubleshooting and Debugging Techniques](#course-4-troubleshooting-and-debugging-techniques)  
-* [Course 5: Configuration Management and the Cloud](#course-5-configuration-management-and-the-cloud)  
-* [Course 6: Automating Real-World Tasks with Python](#course-6-automating-real-world-tasks-with-python)  
+1. [Course Structure](#Course-Structure)  
+2. [Course 1: Crash Course on Python](#course-1-crash-course-on-python)  
+3. [Course 2: Using Python to Interact with the Operating System](#course-2-using-python-to-interact-with-the-operating-system)  
+4. [Course 3: Introduction to Git and GitHub](#course-3-introduction-to-git-and-github)  
+5. [Course 4: Troubleshooting and Debugging Techniques](#course-4-troubleshooting-and-debugging-techniques)  
+6. [Course 5: Configuration Management and the Cloud](#course-5-configuration-management-and-the-cloud)  
+7. [Course 6: Automating Real-World Tasks with Python](#course-6-automating-real-world-tasks-with-python)  
+8. [My Programs](#Programs)
 
-
----
+  
+--- 
 
 ## 🏗️ Course Structure  
 | Course Number | Course Title |  
@@ -95,14 +95,14 @@ This repository provides a structured overview of the **Google IT Automation wit
 
 ---
 
-## 🏆 Programs**: Built the following projects during this certification  
+## 🏆 Programs: Built the following projects during this certification  
   
 - 📝 Project Planning 
 
 ---
 
 ## 🌟 Program Overview  
-This 6-course specialization teaches Python programming, systems administration, and cloud infrastructure management. You'll build tools to solve real-world IT problems while learning best practices for automation and DevOps.
+This 6-course specialization teaches me Python programming, systems administration, and cloud infrastructure management. You'll build tools to solve real-world IT problems while learning best practices for automation and DevOps.
 
 ---
 
