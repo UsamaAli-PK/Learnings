@@ -15,6 +15,10 @@ I started my coding journey in 2023 with a passion for Programming and problem-s
 ---
 
 ## 🏆 Certifications & Badges
+
+[Introduction to Android Mobile Application Development](#)
+
+
 ![Coursera](https://img.shields.io/badge/Coursera-0052CC?style=for-the-badge&logo=coursera)
 ![Udemy](https://img.shields.io/badge/Udemy-A42249?style=for-the-badge&logo=udemy)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google)
@@ -22,10 +26,9 @@ I started my coding journey in 2023 with a passion for Programming and problem-s
 
 ---
 
-## 📖 Table of Contents
+## 📖Specializations to Cover
 
-
-1. [ Google IT Automation with Python Professional Certificate](#google-it-automation)
+1. [ Google IT Automation with Python Professional Certificate](#--google-it-automation-with-python-professional-certificate)
 2. [ Python for Everybody Specialization BY University of Michigan](#Python-for-Everybody)
 3. [ AI Foundations for Everyone Specialization BY IBM](#AI-Foundations-for-Everyone)
 4. [ Generative AI Fundamentals Specialization BY IBM](#Generative-AI-Fundamentals-Specialization)
