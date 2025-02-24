@@ -1,154 +1,92 @@
-# 🚀 Learning Journey: Course-Based Projects 🌟
+# 🚀 My Learning Journey: Code Collection 🌟
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/UsamaAli-PK/Learnings?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/UsamaAli-PK/Learnings?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/UsamaAli-PK/Learnings?color=green)
 ![GitHub issues](https://img.shields.io/github/issues/UsamaAli-PK/Learnings?color=red)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsamaAli-PK&show_icons=true&theme=radical)
+## 📚 About This Repository
+Welcome to my personal collection of code snippets, projects, and learning materials from my journey exploring various programming languages and concepts through online courses. This repository serves as both a portfolio and a reference for my growth as a developer.
 
----
-
-## 📚 My Learning Story
-
-I started my coding journey in 2023 with a passion for automation and problem-solving. My goal is to become a proficient Python developer while exploring web development and machine learning. This repository documents my progress through various courses and projects.
-
----
-
-## 🏆 Certifications & Badges
-
-![Coursera](https://img.shields.io/badge/Coursera-0052CC?style=for-the-badge&logo=coursera)
-![Udemy](https://img.shields.io/badge/Udemy-A42249?style=for-the-badge&logo=udemy)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google)
-
-![Certification QR](https://chart.googleapis.com/chart?cht=qr&chl=https://www.coursera.org/account/accomplishments/certificate/123456&chs=150x150)
-
----
+## 🌟 Key Features
+- **Language Exploration**: Code samples in multiple languages (Python, JavaScript, Java, C++, etc.)
+- **Concept Implementation**: Practical applications of algorithms, data structures, and design patterns
+- **Course Projects**: Final projects from Coursera, Udemy, and other platforms
+- **Learning Resources**: Links to courses, documentation, and supplementary materials
+- **Progress Tracking**: Timeline of my learning journey with skill milestones
 
 ## 📖 Table of Contents
+- [Python Projects](#python-projects)
+- [JavaScript Adventures](#javascript-adventures)
+- [Data Structures & Algorithms](#data-structures-algorithms)
+- [Web Development](#web-development)
+- [Machine Learning](#machine-learning)
+- [System Design](#system-design)
+- [Course Certificates](#course-certificates)
 
-1. [Google IT Automation](#google-it-automation)
-2. [Web Development](#web-development)
-3. [Machine Learning](#machine-learning)
-4. [System Design](#system-design)
-5. [Roadmap](#roadmap)
-6. [Certificate Showcase](#certificates)
-7. [Project Complexity](#complexity)
+## 🐍 Python Projects
+- [Basic Scripts](python/beginner/)
+- [Data Analysis](python/data_analysis/)
+- [Machine Learning](python/ml/)
+- [Web Scraping](python/web_scraping/)
+- [Flask API](python/flask_app/)
 
----
+## 🌐 Web Development
+- [React Projects](web/react/)
+- [Node.js APIs](web/nodejs/)
+- [HTML/CSS Templates](web/frontend/)
+- [Full-Stack Apps](web/full_stack/)
 
-## 🐍 Google IT Automation with Python 🛠️
-
-**Certification**: [Google IT Automation](https://www.coursera.org/specializations/google-it-automation-python)  
-**Status**: 🏆 Completed (Jan 2024)
-
-### 🖥️ Using Python to Interact with OS
-
-- **Module 1**: File System Navigation  
-  ![File Explorer](https://i.imgur.com/XYZ123.png)  
-  [Live Demo](https://replit.com/@UsamaAli-PK/FileExplorer)  
-  Complexity: 🌟🌟
-
-- **Module 2**: Process Management  
-  ![Process Monitor](https://i.imgur.com/ABC456.png)  
-  Complexity: 🌟🌟🌟
-
----
-
-## 🌐 Web Development Bootcamp 🚀
-
-**Certification**: [Udemy Web Dev Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)  
-**Status**: 🏆 Completed (Mar 2024)
-
-### 🎯 Full Stack Projects
-
-- **Project 1**: E-Commerce Website  
-  ![E-Commerce UI](https://i.imgur.com/DEF789.png)  
-  [Live Demo](https://my-ecommerce.herokuapp.com/)  
-  Complexity: 🌟🌟🌟🌟
-
-- **Project 2**: Social Media Clone  
-  [GitHub Repo](https://github.com/UsamaAli-PK/SocialMediaClone)  
-  Complexity: 🌟🌟🌟
-
----
-
-## 🧠 Machine Learning Specialization 📊
-
-**Certification**: [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)  
-**Status**: 🏆 Completed (Jun 2024)
-
-### 📈 Projects
-
-- **Neural Network Classifier**  
-  ![NN Visualization](https://i.imgur.com/GHI012.png)  
-  Complexity: 🌟🌟🌟🌟
-
----
-
-## 🛠️ System Design Fundamentals 🏗️
-
-**Certification**: [Educative.io System Design](https://www.educative.io/courses/system-design-interview-for-software-engineers)  
-**Status**: 🏆 Completed (Sep 2024)
-
-### 🌐 Architecture Diagrams
-
-- **Microservices Design**  
-  ![Microservices](https://i.imgur.com/JKL345.png)  
-  Complexity: 🌟🌟🌟🌟🌟
-
----
-
-## 🗺️ Learning Roadmap
-
-![Roadmap](assets/roadmap.png)  
-[View Interactive Roadmap](https://roadmap.sh/learnings)
-
----
-
-## 📋 Project Complexity Ratings
-
-- 🌟 Beginner Level
-- 🌟🌟 Intermediate Level
-- 🌟🌟🌟 Advanced Level
-- 🌟🌟🌟🌟 Expert Level
-- 🌟🌟🌟🌟🌟 Mastery Level
-
----
-
-## 📕 Certificate Showcase
-
-![Carousel](assets/certificates.gif)  
-[View All Certificates](certificates/)
-
----
+## 🧠 Machine Learning
+- [Supervised Learning](ml/supervised/)
+- [Neural Networks](ml/neural_networks/)
+- [NLP Projects](ml/nlp/)
+- [Computer Vision](ml/computer_vision/)
 
 ## 🛠️ Tools & Technologies
+- Languages: Python, JavaScript, Java, C++, SQL, Bash
+- Frameworks: React, Node.js, Flask, Django, TensorFlow
+- Tools: Git, Docker, AWS, Postman, Jupyter Notebook
+- IDEs: VS Code, PyCharm, IntelliJ, JupyterLab
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+## 📊 Learning Timeline
+| Month       | Focus Area               | Courses Completed                          |
+|-------------|--------------------------|--------------------------------------------|
+| Jan 2023    | Python Basics            | Coursera - Python for Everybody            |
+| Mar 2023    | Web Development          | Udemy - The Web Developer Bootcamp         |
+| Jun 2023    | Data Structures          | LeetCode + Algorithm Crash Course          |
+| Sep 2023    | Machine Learning         | Andrew Ng's ML Specialization              |
+| Dec 2023    | System Design            | Educative.io - System Design Interview     |
 
----
+## 📋 How to Use This Repository
+1. Explore folders by language or topic
+2. Run code samples in your local environment
+3. Refer to README files in each subfolder for setup instructions
+4. Contribute by submitting pull requests with your own projects
 
 ## 🎯 Future Goals
+- Implement more advanced algorithms
+- Build production-ready web applications
+- Explore cloud technologies (AWS/GCP/Azure)
+- Learn advanced machine learning techniques
+- Contribute to open-source projects
 
-1. Complete AWS Certified Developer Associate
-2. Build a production-ready web application
-3. Contribute to open-source Python projects
-
----
+## 📄 License
+[MIT License](LICENSE)
 
 ## 🤝 Support Me
-
-- [Buy Me a Coffee](https://www.buymeacoffee.com/UsamaAli-PK) ☕
-- Follow on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) 💼
+- Follow me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
 - Star this repository ⭐
 
----
+## 📌 Course Certificates
+![Coursera](https://img.shields.io/badge/Coursera-0052CC?style=for-the-badge&logo=coursera)
+![Udemy](https://img.shields.io/badge/Udemy-A42249?style=for-the-badge&logo=udemy)
+![edX](https://img.shields.io/badge/edX-00A600?style=for-the-badge&logo=edX)
 
 ## 📢 Feedback Welcome!
+I'm always looking to improve this repository. Feel free to:
+- Open issues with suggestions
+- Submit pull requests with new projects
+- Leave comments on projects you find interesting
 
-Open issues or submit PRs to help improve this repository!  
-[GitHub Discussions](https://github.com/UsamaAli-PK/Learnings/discussions)
+Thank you for visiting! 🌟
