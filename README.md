@@ -10,7 +10,7 @@
 ---
 
 ## 📚 My Learning Story
-I started my coding journey in 2023 with a passion for automation and problem-solving. My goal is to become a proficient Python developer while exploring web development and machine learning. This repository documents my progress through various courses and projects.
+I started my coding journey in 2023 with a passion for Programming and problem-solving. My goal is to become a proficient AI developer while exploring Python and machine learning. This repository documents my progress through various courses and projects.
 
 ---
 
@@ -19,114 +19,174 @@ I started my coding journey in 2023 with a passion for automation and problem-so
 ![Udemy](https://img.shields.io/badge/Udemy-A42249?style=for-the-badge&logo=udemy)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google)
 
-![Certification QR](https://chart.googleapis.com/chart?cht=qr&chl=https://www.coursera.org/account/accomplishments/certificate/123456&chs=150x150)
 
 ---
 
 ## 📖 Table of Contents
-1. [Google IT Automation](#google-it-automation)
-2. [Web Development](#web-development)
-3. [Machine Learning](#machine-learning)
-4. [System Design](#system-design)
-5. [Roadmap](#roadmap)
-6. [Certificate Showcase](#certificates)
-7. [Project Complexity](#complexity)
+
+
+1. [ Google IT Automation with Python Professional Certificate](#google-it-automation)
+2. [ Python for Everybody Specialization BY University of Michigan](#Python-for-Everybody)
+3. [ AI Foundations for Everyone Specialization BY IBM](#AI-Foundations-for-Everyone)
+4. [ Generative AI Fundamentals Specialization BY IBM](#Generative-AI-Fundamentals-Specialization)
+5. [IBM Generative AI Engineering Professional Certificate](#IBM-Generative-AI-Engineering-Professional-Certificate)
+
+
+
 
 ---
 
-## 🐍 Google IT Automation with Python 🛠️
+## 🐍  Google IT Automation with Python Professional Certificate 🛠️
+
 **Certification**: [Google IT Automation](https://www.coursera.org/specializations/google-it-automation-python)  
-**Status**: 🏆 Completed (Jan 2024)  
 
-### 🖥️ Using Python to Interact with OS
-- **Module 1**: File System Navigation  
-  ![File Explorer](https://i.imgur.com/XYZ123.png)  
-  [Live Demo](https://replit.com/@UsamaAli-PK/FileExplorer)  
-  Complexity: 🌟🌟  
+**Status**: 🏆 On-Going (Jan 2025) 
 
-- **Module 2**: Process Management  
-  ![Process Monitor](https://i.imgur.com/ABC456.png)  
-  Complexity: 🌟🌟🌟  
+<details>
+<summary> 
+  Professional Certificate - 6-course series
+</summary>
 
----
+* #### [Course 1: Crash Course on Python](#)  
+* #### [Course 2: Using Python to Interact with the Operating System](https://github.com/UsamaAli-PK/Learnings/tree/e2eca4b1de08f9e3bc4d0b9a36bc7e629ee6496c/Google%20IT%20Automation%20with%20Python%20Professional%20Certificate/Using%20Python%20to%20Interact%20with%20the%20Operating%20System)  
+* #### [Course 3: Introduction to Git and GitHub](#)  
+* #### [Course 4: Troubleshooting and Debugging Techniques](#)  
+* #### [Course 5: Configuration Management and the Cloud](#)  
+* #### [Course 6: Automating Real-World Tasks with Python](#)  
 
-## 🌐 Web Development Bootcamp 🚀
-**Certification**: [Udemy Web Dev Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)  
-**Status**: 🏆 Completed (Mar 2024)  
+</details>
 
-### 🎯 Full Stack Projects
-- **Project 1**: E-Commerce Website  
-  ![E-Commerce UI](https://i.imgur.com/DEF789.png)  
-  [Live Demo](https://my-ecommerce.herokuapp.com/)  
-  Complexity: 🌟🌟🌟🌟  
 
-- **Project 2**: Social Media Clone  
-  [GitHub Repo](https://github.com/UsamaAli-PK/SocialMediaClone)  
-  Complexity: 🌟🌟🌟  
-
----
-
-## 🧠 Machine Learning Specialization 📊
-**Certification**: [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)  
-**Status**: 🏆 Completed (Jun 2024)  
-
-### 📈 Projects
-- **Neural Network Classifier**  
-  ![NN Visualization](https://i.imgur.com/GHI012.png)  
-  Complexity: 🌟🌟🌟🌟  
-
----
-
-## 🛠️ System Design Fundamentals 🏗️
-**Certification**: [Educative.io System Design](https://www.educative.io/courses/system-design-interview-for-software-engineers)  
-**Status**: 🏆 Completed (Sep 2024)  
-
-### 🌐 Architecture Diagrams
-- **Microservices Design**  
-  ![Microservices](https://i.imgur.com/JKL345.png)  
-  Complexity: 🌟🌟🌟🌟🌟  
-
----
-
-## 🗺️ Learning Roadmap
-![Roadmap](assets/roadmap.png)  
-[View Interactive Roadmap](https://roadmap.sh/learnings)
-
----
-
-## 📋 Project Complexity Ratings
-- 🌟 Beginner Level  
-- 🌟🌟 Intermediate Level  
-- 🌟🌟🌟 Advanced Level  
-- 🌟🌟🌟🌟 Expert Level  
-- 🌟🌟🌟🌟🌟 Mastery Level  
-
----
-
-## 📕 Certificate Showcase
+### 📕 Certificates
 ![Carousel](assets/certificates.gif)  
 [View All Certificates](certificates/)
 
 ---
+## 🐍 Python for Everybody Specialization 🐍
 
-## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+**Certification**: [Python for Everybody](https://www.coursera.org/specializations/python#courses)  
+
+**Status**: 🏆 On-Going (Dec 2024)  
+
+<details>
+<summary> 
+  Specialization - 5-course series
+</summary>
+
+* #### [Course 1: Programming for Everybody (Getting Started with Python)](#)  
+* #### [Course 2: Python Data Structures](#)  
+* #### [Course 3: Using Python to Access Web Data](#)  
+* #### [Course 4: Using Databases with Python](#)  
+* #### [Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python](#)  
+
+</details>
+
+
+### 📕 Certificates
+![Certificates](assets/certificates.gif)  
+[View All Certificates](certificates/)  
+
+
+---
+## 🤖 AI Foundations for Everyone Specialization 🧠
+
+**Certification**: [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-ibm)  
+
+**Status**: 🏆 Starting Soon  
+
+<details>
+<summary> 
+  Specialization - 4-course series
+</summary>
+
+* #### [Course 1: Introduction to Artificial Intelligence](#)  
+* #### [Course 2: Generative AI: Introduction and Applications](#)  
+* #### [Course 3: Generative AI: Prompt Engineering Basics](#)  
+* #### [Course 4: Building AI Powered Chatbots Without Programming](#)  
+
+</details>
+
+### 📕 Certificates
+![Certificates](assets/certificates.gif)  
+[View All Certificates](certificates/)  
 
 ---
 
+## 🎨 Generative AI Fundamentals Specialization 🧠
+
+**Certification**: [Generative AI Fundamentals](https://www.coursera.org/specializations/generative-ai-ibm)  
+
+**Status**: 🏆 On-Going (Feb 2025)  
+
+<details>
+<summary> 
+  Specialization - 5-course series
+</summary>
+
+* #### [Course 1: Generative AI: Introduction and Applications](#)  
+* #### [Course 2: Generative AI: Prompt Engineering Basics](#)  
+* #### [Course 3: Generative AI: Foundation Models and Platforms](#)  
+* #### [Course 4: Generative AI: Impact, Considerations, and Ethical Issues](#)  
+* #### [Course 5: Generative AI: Business Transformation and Career Growth](#)  
+
+</details>
+
+---
+
+### 📕 Certificates
+![Certificates](assets/certificates.gif)  
+[View All Certificates](certificates/)  
+
+---
+## ⚙️ IBM Generative AI Engineering Professional Certificate 🤖
+
+**Certification**: [Generative AI Engineering](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)  
+
+**Status**: 🏆 On-Going (Feb 2025)  
+
+<details>
+<summary> 
+  Professional Certificate - 16-course series
+</summary>
+
+* #### [Course 1: Introduction to AI](#)  
+* #### [Course 2: Generative AI Basics](#)  
+* #### [Course 3: Prompt Engineering](#)  
+* #### [Course 4: Python for Data Science](#)  
+* #### [Course 5: AI Applications with Python](#)  
+* #### [Course 6: Building Generative AI Apps](#)  
+* #### [Course 7: Data Analysis with Python](#)  
+* #### [Course 8: Machine Learning with Python](#)  
+* #### [Course 9: Deep Learning with Keras](#)  
+* #### [Course 10: Generative AI Architectures](#)  
+* #### [Course 11: NLP & Language Modeling](#)  
+* #### [Course 12: Transformers in NLP](#)  
+* #### [Course 13: Fine-Tuning Transformers](#)  
+* #### [Course 14: Advanced LLM Fine-Tuning](#)  
+* #### [Course 15: AI Agents with RAG](#)  
+* #### [Course 16: Capstone Project](#)  
+
+</details>
+
+---
+
+
+### 📕 Certificates
+![Certificates](assets/certificates.gif)  
+[View All Certificates](certificates/)  
+
+---
+
+
 ## 🎯 Future Goals
-1. Complete AWS Certified Developer Associate  
+1.  Certified Python Developer  
 2. Build a production-ready web application  
 3. Contribute to open-source Python projects  
 
 ---
 
 ## 🤝 Support Me
-- [Buy Me a Coffee](https://www.buymeacoffee.com/UsamaAli-PK) ☕  
-- Follow on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) 💼  
+- Follow on [LinkedIn](https://www.linkedin.com/in/usamaalipk/) 💼  
 - Star this repository ⭐  
 
 ---
